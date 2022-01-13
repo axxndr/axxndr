@@ -1,6 +1,4 @@
 Hi, I'm axxndr!
-I’m interested in DS.
-🌱 I’m currently learning Python.
 
 📫 How to reach me?: aleksandrapalka12@gmail.com
 
